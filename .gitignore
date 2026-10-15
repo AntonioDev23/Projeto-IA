@@ -1,0 +1,13 @@
+
+# Banco de dados e informações locais
+conversa.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Configurações locais e segredos
+.env
